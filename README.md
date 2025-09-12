@@ -1,7 +1,7 @@
 # HR Ops Portfolio
 **Kenny Duflos — HR/HR Ops & C&B**
 
-### TL;DR
+### Introduction
 J’aide les organisations à structurer leurs politiques C&B et leurs opérations RH (onboarding, revue salariale, automatisations) avec une approche data & conformité.
 
 ## 🎓 Thèse — Salaire décent en Europe
