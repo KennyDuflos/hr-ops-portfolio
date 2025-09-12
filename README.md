@@ -7,8 +7,8 @@ Réalisée dans le cadre d’un MBA Compensation & Benefits à l’Institut Mage
 
 ## Contenu du dépôt
 - [Télécharger la thèse (PDF)](these-salaire-decent.pdf)
-- `data/` : (facultatif) données ou annexes anonymisées.
-- `figures/` : (facultatif) graphiques ou illustrations.
+- [Télécharger la thèse (PDF)](these-salaire-decent.docx)
+
 
 ## Licence
 Partagé sous licence [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
