@@ -7,7 +7,6 @@ Réalisée dans le cadre d’un MBA Compensation & Benefits à l’Institut Mage
 
 ## Contenu du dépôt
 - [Télécharger la thèse (PDF)](these-salaire-decent.pdf)
-- [Télécharger la thèse (Word)](these-salaire-decent.docx)
 
 
 ## Licence
