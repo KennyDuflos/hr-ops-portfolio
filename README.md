@@ -1,14 +1,28 @@
-# Thèse : Salaire décent en Europe
-**Auteur : [Kenny Duflos] – MBA Compensation & Benefits**
+# HR Ops Portfolio
+**Kenny Duflos — HR/HR Ops & C&B**
 
-## Résumé
-Cette thèse analyse comment le salaire décent peut devenir un levier de différenciation et de compétitivité tout en tenant compte des contraintes économiques et régionales.
-Réalisée dans le cadre d’un MBA Compensation & Benefits à l’Institut Magellan, elle vise à développer le concept de salaire décent dans l’Union européenne sous un prisme social, économique et financier. La méthodologie est classique : présentation du concept et de ses définitions, panorama des situations européennes, outils disponibles et analyse des enjeux.
+### TL;DR
+J’aide les organisations à structurer leurs politiques C&B et leurs opérations RH (onboarding, revue salariale, automatisations) avec une approche data & conformité.
 
-## Contenu du dépôt
-- [Télécharger la thèse (PDF)](these-salaire-decent.pdf)
+## 🎓 Thèse — Salaire décent en Europe
+- 📄 **Résumé + téléchargement (Notion/GitBook)** : https://votre-hub
+- 🏛️ **Version citable (HAL/Zenodo)** : https://lien-stable
+- ⬇️ **PDF direct sur GitHub** : [Télécharger](these-salaire-decent.pdf)
 
+## 🧪 Études de cas (3 min de lecture)
+- **Revue salariale annuelle** : process, critères, équité interne → +X% de satisfaction managers  
+- **Onboarding multi-pays** : time-to-productivity -25%  
+- **Automatisation n8n** : alertes paie & reporting mensuel (RGPD OK)
 
-## Licence
+## 🛠️ Playbooks & Outils
+- Onboarding, Télétravail, Politique C&B (extraits anonymisés)  
+- Automatisations : schémas + JSON (extraits non sensibles)
+
+## 📣 Articles & talks
+- LinkedIn Featured : https://www.linkedin.com/in/…/details/featured/
+
+## 📬 Contact
+- Email : …
+- LinkedIn : 
 Partagé sous licence [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
 
