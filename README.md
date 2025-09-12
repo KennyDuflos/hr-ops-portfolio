@@ -6,7 +6,7 @@ Cette thèse analyse comment le salaire décent peut devenir un levier de diffé
 Réalisée dans le cadre d’un MBA Compensation & Benefits à l’Institut Magellan, elle vise à développer le concept de salaire décent dans l’Union européenne sous un prisme social, économique et financier. La méthodologie est classique : présentation du concept et de ses définitions, panorama des situations européennes, outils disponibles et analyse des enjeux.
 
 ## Contenu du dépôt
-- [Télécharger la thèse (PDF) : Thèse professionnelle - Le salaire décent (2).pdf
+- [Télécharger la thèse (PDF)](Thèse professionnelle - Le salaire décent (2).pdf)
 - `data/` : (facultatif) données ou annexes anonymisées.
 - `figures/` : (facultatif) graphiques ou illustrations.
 
