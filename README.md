@@ -5,8 +5,6 @@
 J’aide les organisations à structurer leurs politiques C&B et leurs opérations RH (onboarding, revue salariale, automatisations) avec une approche data & conformité.
 
 ## 🎓 Thèse — Salaire décent en Europe
-- 📄 **Résumé + téléchargement (Notion/GitBook)** : https://votre-hub
-- 🏛️ **Version citable (HAL/Zenodo)** : https://lien-stable
 - ⬇️ **PDF direct sur GitHub** : [Télécharger](these-salaire-decent.pdf)
 
 ## 🧪 Études de cas (3 min de lecture)
